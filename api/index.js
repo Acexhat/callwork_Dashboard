@@ -6,11 +6,15 @@ const constants = require("./utils/constants");
 const middlewares = require("./middlewares");
 
 const app = express();
-const port = constants.PORT_NUMBER;
+const port = process.env.PORT || constants.PORT_NUMBER;
 
 app.use(express.json());
 app.use(cors());
 app.use(morgan("dev"));
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static('pre-final/build'));
+}
 
 app.use(constants.RRDMS_CRF_URL_PATH, routes);
 app.use(constants.RRDMS_URL_PATH, routes);
