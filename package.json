@@ -8,7 +8,7 @@
     "build": "cd api && cd pre-final && npm rum build",
     "install-client": "cd api && cd pre-final && npm install",
     "heroku-postbuild" : "npm run install-client && npm run build",
-    "start": "nodemon ./api/index.js"
+    "start": "nodemon index.js"
   },
   "author": "siddhartha-pvt",
   "license": "ISC",
