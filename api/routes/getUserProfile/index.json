@@ -1,0 +1,50 @@
+{
+	"id": 54321,
+	"accountName": "CollectionsTovo",
+	"accountId": 12345,
+	"emailId": "abc@xyz.com",
+	"firstName": "John",
+	"lastName": "Doe",
+	"phone": "0987654321",
+	"virtualNumber": {
+		"virtualNumber": "18329007690",
+		"fullName": "akshat-bhaskar",
+		"sipUser":  "akshat-bhaskar",
+		"sipToken": "lJNBoYDzOOBioYoeUBTml",
+		"incomingNumber": "<YOUR Caller ID GOES HERE>"
+	},
+	"asteriskConfig": {
+		"asteriskIp": "call-sandbox.highradius.com",
+		"iceServers": "[{\"urls\":\"stun:global.stun.twilio.com:3478?transport=udp\",\"url\":\"stun:global.stun.twilio.com:3478?transport=udp\"},{\"urls\":\"turn:global.turn.twilio.com:3478?transport=udp\",\"credential\":\"D6yc+TmiXwjGz5mh3gvUNUZcdrp26Sz4lVCa1vjbu2s=\",\"url\":\"turn:global.turn.twilio.com:3478?transport=udp\",\"username\":\"6458d88e0c5d32fd1e3d5d4cc6d20b1a975c8e6f8fcfb436440b252fe2041db4\"},{\"urls\":\"turn:global.turn.twilio.com:3478?transport=tcp\",\"credential\":\"D6yc+TmiXwjGz5mh3gvUNUZcdrp26Sz4lVCa1vjbu2s=\",\"url\":\"turn:global.turn.twilio.com:3478?transport=tcp\",\"username\":\"6458d88e0c5d32fd1e3d5d4cc6d20b1a975c8e6f8fcfb436440b252fe2041db4\"},{\"urls\":\"turn:global.turn.twilio.com:443?transport=tcp\",\"credential\":\"D6yc+TmiXwjGz5mh3gvUNUZcdrp26Sz4lVCa1vjbu2s=\",\"url\":\"turn:global.turn.twilio.com:443?transport=tcp\",\"username\":\"6458d88e0c5d32fd1e3d5d4cc6d20b1a975c8e6f8fcfb436440b252fe2041db4\"}]",
+
+		"sipTrunk": "twiliofdev"
+	},
+	"workbookList": [
+		105794987, 105794968, 105793486, 105784350, 104302314, 104190742,
+		105792819, 105795391, 105793583, 105795404, 105795128, 105795349,
+		105795231, 105794875, 105794709, 105794658, 105793861, 105791877,
+		105794657, 105793153
+	],
+	"customerNames": [
+		"ANTHRACITE AUTO EXCHANGE INC.",
+		"STRAUSS FEEDS",
+		"CMC FOODS",
+		"FLUID SOLUTIONS, LLC",
+		"METRO COMMODITIES INC.",
+		"MEAD JOHNSON NUTRITION",
+		"EQUIP-BID.COM",
+		"SUPPLYSIDE USA INC",
+		"RAISED COMPUTER FLOORS, INC.",
+		"BUY \u0026 SELL FITNESS",
+		"WHOLESALE TIRE INC.",
+		"THALHEIMER BROTHERS LLC",
+		"WAR ON RETAIL",
+		"AVANGARD INNOVATIVE",
+		"EASTERN RECYCLING SERVICES",
+		"BSD PLASTICS INC",
+		"U.S. ZINC",
+		"HURST HARDWOODS",
+		"ELWAY INDUSTRIES, INC.",
+		"CORUMAR LLC"
+	]
+}

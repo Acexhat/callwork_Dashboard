@@ -1,0 +1,1596 @@
+[
+	{
+		"customerId": 105784350,
+		"contacts": [
+			{
+				"id": 12345,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Akshat",
+				"lastName": "Bhaskar",
+				"email": "bhaskar20inn@gmail.com",
+				"phoneNumber": "+919262561881",
+				"mobileNumber": "+919999247620",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			{
+				"id": 12345,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Iron",
+				"lastName": "Man",
+				"email": "bhaskar20inn@gmail.com",
+				"phoneNumber": "+916370054656",
+				"mobileNumber": "+919771259898",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			{
+				"id": 63290,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 104190742,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105792819,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105795391,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105793583,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105795404,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105795128,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105795349,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105795231,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105794875,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105794709,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105794658,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105793861,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105791877,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	},
+	{
+		"customerId": 105794657,
+		"contacts": [
+			{
+				"id": 63290,
+				"isPrimary": true,
+				"type": "External",
+				"firstName": "Oliver",
+				"lastName": "Wilson",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Missed",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			},
+			
+			{
+				"id": 18267705,
+				"isPrimary": false,
+				"type": "External",
+				"firstName": "Vin",
+				"lastName": "John",
+				"email": "hrc@test.com",
+				"phoneNumber": "+18558647776",
+				"mobileNumber": "+16822381968",
+				"callLogs": [
+					{
+						"duration": 41,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-07T12:03:49"
+					},
+					{
+						"duration": 18,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-06T12:37:14"
+					},
+					{
+						"duration": 32,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-06T12:36:16"
+					},
+					{
+						"duration": 33,
+						"callType": "Missed",
+						"communicationTime": "2020-05-06T12:35:35"
+					},
+					{
+						"duration": 33,
+						"callType": "Outgoing",
+						"communicationTime": "2020-05-06T12:34:49"
+					},
+					{
+						"duration": 8,
+						"callType": "Incoming",
+						"communicationTime": "2020-05-04T03:33:58"
+					},
+					{
+						"duration": 24,
+						"callType": "Rejected",
+						"communicationTime": "2020-05-04T03:32:39"
+					}
+				]
+			}
+		]
+	}
+]
