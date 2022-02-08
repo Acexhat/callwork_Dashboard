@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd api && cd pre-final && npm rum build",
+    "install-client": "cd api && cd pre-final && npm install",
+    "heroku-postbuild" : "npm run install-client && npm run build",
     "start": "nodemon ./api/index.js"
   },
   "author": "siddhartha-pvt",
